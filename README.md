@@ -1,4 +1,9 @@
+## Hi there 👋 I'm Navjot Kaur
 
+* 🎓 B.Tech CSE Student at Guru Nanak Dev Engineering College, Ludhiana
+* 📊 Interested in Data Science, AI, and Product Development
+* 💡 Building projects, exploring AI tools, and solving real-world problems
+* 🌱 Currently learning Data Engineering, System Design, and Cloud
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navjotkarkhal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karkhalnavjot0.18@gmail.com) 
 
